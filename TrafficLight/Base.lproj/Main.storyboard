@@ -72,9 +72,9 @@
                     </view>
                     <connections>
                         <outlet property="greenLight" destination="Tjy-lp-Dcd" id="2gb-Q1-hmB"/>
-                        <outlet property="orangeLight" destination="7H0-G1-W7E" id="nUI-Xd-Uqk"/>
                         <outlet property="redLight" destination="nk1-WQ-Wfq" id="UoT-5A-0EL"/>
                         <outlet property="startButton" destination="6Ps-lY-5z2" id="2sg-ay-nvm"/>
+                        <outlet property="yellowLight" destination="7H0-G1-W7E" id="nUI-Xd-Uqk"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
